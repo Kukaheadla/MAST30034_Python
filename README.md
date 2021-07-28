@@ -1,5 +1,5 @@
 # Welcome to the MAST30034 Python Repo
-- Author: [Akira Takihara Wang](https://github.com/akiratwang) and [Calvin Huang](https://github.com/Dovermore)
+- Author: [Kevin Yang](https://github.com/kukaheadla970)
 - Tutorial and Tools Up-to-Date as of: July 2021
 - Usage: For MAST30034 students only  
 
@@ -69,3 +69,5 @@ Data Engineering / End-to-End Pipelines:
 
 Visualizations:
 - `Plotly`, `Folium`, `Bokeh`, `seaborn`, `matplotlib`
+
+## To be Continued
